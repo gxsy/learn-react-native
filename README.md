@@ -19,6 +19,12 @@
 ### 开源项目：
 - [分享 50 个完整的 React Native 项目](https://juejin.im/post/58f37cb361ff4b0058f9824a)
 
+### redux:
+- [http://redux.js.org/](http://redux.js.org/)
+- [Examples](http://redux.js.org/docs/introduction/Examples.html#examples)
+- [在react-native中使用redux](http://www.jianshu.com/p/2c43860b0532)
+ 
+
 ### 其他:
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 - [react-navigation](https://reactnavigation.org/)

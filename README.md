@@ -22,7 +22,7 @@
 ### redux:
 - [http://redux.js.org/](http://redux.js.org/)
 - [Examples](http://redux.js.org/docs/introduction/Examples.html#examples)
-- [在react-native中使用redux](http://www.jianshu.com/p/2c43860b0532)
+
  
 
 ### 其他:

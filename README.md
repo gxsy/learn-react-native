@@ -24,7 +24,7 @@
 - [Examples](http://redux.js.org/docs/introduction/Examples.html#examples)
 
 ### redux-saga:
-- [英文原版](http://yelouafi.github.io/redux-saga)
+- [英文原版](https://redux-saga.js.org/)
 - [redux-sage 中文文档](http://leonshi.com/redux-saga-in-chinese/)
 - [redux-saga 实践总结](https://zhuanlan.zhihu.com/p/23012870)
 

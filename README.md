@@ -17,7 +17,7 @@
 	
 
 ### 开源项目：
-- [分享 50 个完整的 React Native 项目](https://juejin.im/post/58f37cb361ff4b0058f9824a)
+- [分享 50 个完整的 React Native 项目](http://www.marno.cn/)
 
 ### redux:
 - [http://redux.js.org/](http://redux.js.org/)

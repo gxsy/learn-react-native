@@ -23,6 +23,8 @@
 - [http://redux.js.org/](http://redux.js.org/)
 - [Examples](http://redux.js.org/docs/introduction/Examples.html#examples)
 
+### redux-saga:
+- [redux-saga 实践总结](https://zhuanlan.zhihu.com/p/23012870)
  
 
 ### 其他:

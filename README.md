@@ -19,6 +19,9 @@
 ### 开源项目：
 - [分享 50 个完整的 React Native 项目](http://www.marno.cn/)
 
+### navigation:
+- [react-navigation](https://reactnavigation.org/docs/intro/)
+
 ### redux:
 - [http://redux.js.org/](http://redux.js.org/)
 - [Examples](http://redux.js.org/docs/introduction/Examples.html#examples)

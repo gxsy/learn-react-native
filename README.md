@@ -23,6 +23,9 @@
 - [http://redux.js.org/](http://redux.js.org/)
 - [Examples](http://redux.js.org/docs/introduction/Examples.html#examples)
 
+### react-redux:
+- [react-redux](https://github.com/reactjs/react-redux)
+
 ### redux-saga:
 - [英文原版](https://redux-saga.js.org/)
 - [redux-sage 中文文档](http://leonshi.com/redux-saga-in-chinese/)
